@@ -3,7 +3,7 @@
 基于云开发+ WeUI+ColorUI框架的书城项目。
 # 项目部分截图
 ## 商城首页
-功能:
+![](https://github.com/luvpretty/wx_shop/blob/master/membership-miniprogram/image/home.PNG)
 
 ## 社区首页
 
