@@ -27,7 +27,7 @@
         "pagePath": "pages/membership/pages/shop/index/index",
         "iconPath": "image/icon_home.png",
         "selectedIconPath": "image/icon_home_hl.png",
-        "text": "商城"
+        "text": "书城"
       },
       {
         "pagePath": "pages/membership/pages/community/index/index",
